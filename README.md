@@ -20,8 +20,6 @@ This is a simple password generator website made using **HTML, CSS, and JavaScri
 - `Passwordgenerator.js`  → JavaScript functionality
 - `README.md` → Project documentation
 
----
-
 ## 🚀 How to Run
 
 1. Download or clone the repository:  
@@ -30,8 +28,6 @@ This is a simple password generator website made using **HTML, CSS, and JavaScri
 2. Open the folder in any browser or use Live Server in VS Code  
 3. Open `Passwordgenerator.html` to view the homepage  
 4. No backend or server setup required
-
----
 
 ## 🎯 Why I Made This
 This project helped me understand JavaScript better — especially how to handle user inputs, button clicks, and work with random values.
